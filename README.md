@@ -6,6 +6,6 @@
 
 - [test/test.ipynb](test/test.ipynb)
 
-- https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/test/test.ipynb
+- https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/dev/test/test.ipynb
 
-- https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/test/test.ipynb
+- https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/dev/test/test.ipynb
