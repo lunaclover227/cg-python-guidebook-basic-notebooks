@@ -6,11 +6,11 @@
 
 ### 演習用
 
-- https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第3章_演習用.ipynb
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第3章_演習用.ipynb)
 
 ### サンプルコード
 
-- (1/1(木)追加予定)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第3章_サンプルコード.ipynb)
 
 ## 第4章　関数について詳しくなろう
 
