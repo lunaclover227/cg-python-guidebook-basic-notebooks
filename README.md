@@ -16,7 +16,7 @@
 
 ### 演習用
 
-- (1/2(金)追加予定)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第4章_演習用.ipynb)
 
 ### サンプルコード
 
