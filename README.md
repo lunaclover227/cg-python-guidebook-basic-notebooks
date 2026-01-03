@@ -46,11 +46,11 @@ from google.colab.patches import cv2_imshow
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第4章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_04/第4章_演習用.ipynb)
 
 ### サンプルコード
 
-- (1/2(金)追加予定)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_04/第4章_サンプルコード.ipynb)
 
 ## 第5章　複数の値をまとめてみよう
 
