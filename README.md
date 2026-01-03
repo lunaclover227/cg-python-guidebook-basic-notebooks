@@ -66,7 +66,7 @@ from google.colab.patches import cv2_imshow
 
 ### 演習用
 
-- (1/3(土)追加予定)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_06/第6章_演習用.ipynb)
 
 ### サンプルコード
 
