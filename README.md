@@ -11,18 +11,6 @@
 - [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第3版)
 - [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/ver_1_0)
 
-## 初版第1刷の記載ミスについて
-
-p222のリスト7.32およびp230のリスト7.39に誤りがあり、先頭に以下の3行を追加する必要がありました。
-
-```
-images_list = []
-for name in name_results:
-    images_list.append(images_dict[name])
-```
-
-こちらは本来、p220のリスト7.29に記載のあったコードなのですが、p222で書き換える際に消してはならなかった3行を誤って消してしまった状態で掲載したものになります。申し訳ございませんでした。(再販時に修正予定です)
-
 ## 第3章　プログラムの基礎に触れてみよう
 
 ### 演習用
