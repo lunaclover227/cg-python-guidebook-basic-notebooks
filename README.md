@@ -2,6 +2,15 @@
 
 「大石泉と学ぶPythonプログラミング 基礎編」の情報をまとめたページです。
 
+## 版の切り替えについて
+
+お手持ちの書籍の巻末に記載のある版をご確認し、以下のリンクをクリックしてください(最適なページが表示されます)。
+
+- [初版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/初版)
+- [第2版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第2版)
+- [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第3版)
+- [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/ver_1_0)
+
 ## 初版第1刷の記載ミスについて
 
 p222のリスト7.32およびp230のリスト7.39に誤りがあり、先頭に以下の3行を追加する必要がありました。
