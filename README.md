@@ -15,41 +15,41 @@
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_03/第3章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_03/第3章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_03/第3章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_03/第3章_サンプルコード.ipynb)
 
 ## 第4章　関数について詳しくなろう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_04/第4章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_04/第4章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_04/第4章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_04/第4章_サンプルコード.ipynb)
 
 ## 第5章　複数の値をまとめてみよう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_05/第5章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_05/第5章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_05/第5章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_05/第5章_サンプルコード.ipynb)
 
 ## 第6章　文を使いこなそう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_06/第6章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_06/第6章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_06/第6章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_06/第6章_サンプルコード.ipynb)
 
 ## 第7章　10連ガシャを作ってみよう
 
@@ -57,12 +57,12 @@
 
 ### 演習用
 
-- [7.1節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_1節_演習用.ipynb)
+- [7.1節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_07/第7章_1節_演習用.ipynb)
 
-- [7.2節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_2節_演習用.ipynb)
+- [7.2節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_07/第7章_2節_演習用.ipynb)
 
-- [7.3節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_3節_演習用.ipynb)
+- [7.3節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_07/第7章_3節_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0/chapter_07/第7章_サンプルコード.ipynb)
