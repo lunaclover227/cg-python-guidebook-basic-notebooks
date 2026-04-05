@@ -4,12 +4,9 @@
 
 ## 版の切り替えについて
 
-お手持ちの書籍の巻末に記載のある版をご確認し、以下のリンクをクリックしてください(最適なページが表示されます)。
+お手持ちの書籍の巻末に記載のある版をご確認し、画面左上の「main」(あるいは第○版など)と書かれたボタンをクリックして版を選択ください(最適なページが表示されます)。
 
-- [初版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/初版)
-- [第2版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第2版)
-- [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第3版)
-- [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/ver_1_0)
+![版の切り替え](img/switch_branches.png)
 
 ## 初版第1刷の記載ミスについて
 
