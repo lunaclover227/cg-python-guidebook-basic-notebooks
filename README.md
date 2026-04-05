@@ -11,57 +11,45 @@
 - [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第3版)
 - [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/ver_1_0)
 
-## 初版第1刷の記載ミスについて
-
-p222のリスト7.32およびp230のリスト7.39に誤りがあり、先頭に以下の3行を追加する必要がありました。
-
-```
-images_list = []
-for name in name_results:
-    images_list.append(images_dict[name])
-```
-
-こちらは本来、p220のリスト7.29に記載のあったコードなのですが、p222で書き換える際に消してはならなかった3行を誤って消してしまった状態で掲載したものになります。申し訳ございませんでした。(再販時に修正予定です)
-
 ## 第3章　プログラムの基礎に触れてみよう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第3章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_03/第3章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_03/第3章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_03/第3章_サンプルコード.ipynb)
 
 ## 第4章　関数について詳しくなろう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_04/第4章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_04/第4章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_04/第4章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_04/第4章_サンプルコード.ipynb)
 
 ## 第5章　複数の値をまとめてみよう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_05/第5章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_05/第5章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_05/第5章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_05/第5章_サンプルコード.ipynb)
 
 ## 第6章　文を使いこなそう
 
 ### 演習用
 
-- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_06/第6章_演習用.ipynb)
+- [演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_06/第6章_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_06/第6章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_06/第6章_サンプルコード.ipynb)
 
 ## 第7章　10連ガシャを作ってみよう
 
@@ -69,12 +57,12 @@ for name in name_results:
 
 ### 演習用
 
-- [7.1節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_07/第7章_1節_演習用.ipynb)
+- [7.1節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_1節_演習用.ipynb)
 
-- [7.2節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_07/第7章_2節_演習用.ipynb)
+- [7.2節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_2節_演習用.ipynb)
 
-- [7.3節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_07/第7章_3節_演習用.ipynb)
+- [7.3節演習用](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_3節_演習用.ipynb)
 
 ### サンプルコード
 
-- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_07/第7章_サンプルコード.ipynb)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版/chapter_07/第7章_サンプルコード.ipynb)
