@@ -6,10 +6,10 @@
 
 お手持ちの書籍の巻末に記載のある版をご確認し、以下のリンクをクリックしてください(最適なページが表示されます)。
 
-- [初版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/初版)
-- [第2版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第2版)
-- [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/第3版)
-- [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/blob/ver_1_0)
+- [初版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/初版)
+- [第2版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第2版)
+- [第3版第1刷](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/第3版)
+- [ver1.0(電子版)](https://github.com/lunaclover227/cg-python-guidebook-basic-notebooks/tree/ver_1_0)
 
 ## 初版第1刷の記載ミスについて
 
