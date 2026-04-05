@@ -42,7 +42,7 @@ for name in name_results:
 
 ### サンプルコード
 
-- ~~(1/2(金)追加予定)~~ (1/4(日)追加予定)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_05/第5章_サンプルコード.ipynb)
 
 ## 第6章　文を使いこなそう
 
@@ -52,7 +52,7 @@ for name in name_results:
 
 ### サンプルコード
 
-- ~~(1/3(土)追加予定)~~ (1/4(日)追加予定)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_06/第6章_サンプルコード.ipynb)
 
 ## 第7章　10連ガシャを作ってみよう
 
@@ -68,4 +68,4 @@ for name in name_results:
 
 ### サンプルコード
 
-- ~~(1/3(土)追加予定)~~ (1/4(日)追加予定)
+- [サンプルコード](https://colab.research.google.com/github/lunaclover227/cg-python-guidebook-basic-notebooks/blob/main/chapter_07/第7章_サンプルコード.ipynb)
